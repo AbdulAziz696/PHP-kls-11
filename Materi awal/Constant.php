@@ -1,7 +1,7 @@
 <?php
-define("AUTHOR", "web programming");
+define("AUTHOR",null);
 
-echo $AUTHOR;
-
+// echo $AUTHOR;
+var_dump(isset($AUTHOR));
 
 ?>
